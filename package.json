@@ -1,0 +1,14 @@
+{
+  "name": "BoomVitC",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "วิตามินซี บำรุงสุขภาพ",
+  "keywords": [
+    "boomvitc"
+  ],
+  "repository": "https://github.com/tikanaht/boomvitc",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
